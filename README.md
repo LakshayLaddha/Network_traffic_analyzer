@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Network Traffic Analyzer
 
 A real-time network packet monitoring tool developed using C, libpcap, and POSIX threads for deep network analysis. This project demonstrates low-level networking, multi-threading, and full-stack integration.
@@ -41,3 +42,6 @@ A real-time network packet monitoring tool developed using C, libpcap, and POSIX
 ```bash
 sudo apt-get update
 sudo apt-get install -y libpcap-dev build-essential
+=======
+# Network_traffic_analyzer
+>>>>>>> ead81c1131c7750d0d4971c665f4337a884b1949
